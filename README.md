@@ -37,8 +37,7 @@ else:
 ```
 
 ## Output:
-![Screenshot 2024-04-02 200713](https://github.com/sanjayy2431/Square-root-of-a-number/assets/149365143/7f4c1360-1aff-4dc2-84cc-63091600533b)
-
+![alt text](image.png)
 
 
 
